@@ -18,4 +18,4 @@ Design Thinking and Innovation (DTI)
 
 
 
-https://github.com/tandpfun/skill-icons.git
+
